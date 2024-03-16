@@ -21,3 +21,4 @@ urlpatterns = [
     path("Humon_sararm/", include("Humon_sararm.urls")),
     path('admin/', admin.site.urls),
 ]
+
